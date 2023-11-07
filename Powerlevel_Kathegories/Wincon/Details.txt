@@ -1,0 +1,2 @@
+Win Condition Speed: 
+- How quickly can the deck reliably win? Competitive decks often aim to win by turn 3-5, while more casual decks may not focus on winning before turn 10.

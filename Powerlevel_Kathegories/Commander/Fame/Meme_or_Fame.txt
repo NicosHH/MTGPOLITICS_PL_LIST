@@ -1,0 +1,1 @@
+Überlegung ob der Commander eine Auswirkung auf das PL des Decks haben soll, je nachdem ob er einen gewissen Ruf hat oder nicht.
